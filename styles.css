@@ -1,5 +1,15 @@
-.logo {
-    height: 20px;
+
+header{
+    background-color: #E1F3F8;
+    height: 40px;
+}
+
+body{
+    font-style: ;
+}
+
+#logo {
+    height: 30px;
     float: left;
 }
 
