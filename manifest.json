@@ -10,17 +10,5 @@
       "default_icon": "assets/icon.png",
       "default_title": "nouri",
       "default_popup": "popup.html"
-    },
-  "chrome_url_overrides": {
-      "newtab": "index.html"
-    },
-  "options_page": "options.html",
-  "permissions": [
-      "activeTab",
-      "tabs",
-      "storage",
-      "<all_urls>",
-      "pageCapture",
-      "downloads" 
-    ]
+    }
 }
