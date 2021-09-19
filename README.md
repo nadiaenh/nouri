@@ -1,3 +1,10 @@
+# What is this ?
+Our HackTheNorth 2021 submission !  
+nouri is a Chrome extension that notifies you if the cosmetic product you're browsing contains harmful or irritant ingredients.  
+
+![](https://i.imgur.com/2G0AuzE.png)  
+![](https://i.imgur.com/Ya9OlFn.png)  
+
 # How to install the extension
 
 :one: Clone this repository or download its entirety on your computer.  
@@ -5,8 +12,6 @@
 :three: Navigate to the nouri folder and click **Select folder**.  
 :four: You can now click on the little puzzle logo in Chrome and pin the extension to your navigation bar. When you click it, the popup appears.  
 
-# Things to do in this repo
-
-:one: Code the front-end the way Joyce designed it.  
-:two: Figure out how to create a hover-on-text feature (like Honey extension) and code that.  
-:three: Figure out how to make the extension fetch ingredient list from the csv that we will add in this repo.  
+# Team
+[Nadia E.](https://github.com/nadiaenh) - frontend  
+[Joyce C.](https://www.linkedin.com/in/joycekchan/) - design
