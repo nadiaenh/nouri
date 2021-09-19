@@ -1,16 +1,87 @@
 
-header{
-    background-color: #E1F3F8;
-    height: 40px;
+body{
+    color: #011F4D;
+    height: auto;
+    width: 300px;
+    font-family: "Maven Pro 500", sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
 }
 
-body{
-    font-style: ;
+/*--- Header section---*/ 
+header{
+    background-color: #E1F3F8;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: auto;
+    width: auto;
+    padding: 16px;
+}
+
+.top-bar-text{
+    color: #7790FF;
+    font-family: "Maven Pro 800", sans-serif;
+    font-size: 16px;
+    font-weight:bolder;
+    padding-left: 30px;
 }
 
 #logo {
-    height: 30px;
+    height: 20px;
     float: left;
+}
+
+/*--- Product information ---*/
+.product-name {
+    font-family: 'Maven Pro 900', sans-serif;
+    font-size: 20px;
+    padding: 12px;
+}
+
+/*--- Toxic/banned ingredients ---*/
+.product-info .toxic{
+    padding:10px;
+}
+
+.product-info .toxic .title {
+    color: #E27381;
+    font-family: "Maven Pro 800", sans-serif;
+    font-size: 11px;
+    font-weight:bolder;
+    padding-left: 5px;
+}
+
+/*--- Skin irritants ---*/
+.product-info .irritants{
+    padding:10px;
+}
+
+.product-info .irritants .title {
+    color: #D79843;
+    font-family: "Maven Pro", sans-serif;
+    font-size: 11px;
+    font-weight:bolder;
+    padding-left: 5px;
+}
+
+/*--- All the ingredients lists---*/
+.ingredients-list {
+    padding-left: 30px;
+    padding-right: 20px;
+    text-align: justify;
+    line-height: 18px;
+}
+
+.ingredients-list .name{
+    font-family: "Maven Pro", sans-serif;
+    font-size: 12px;
+    font-weight:bolder;
+}
+
+#learn-more{
+    color: #011F4D;
+    font-size: 8px;
+    padding-left: 20px;
 }
 
 
