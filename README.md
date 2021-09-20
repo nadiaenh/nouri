@@ -1,5 +1,5 @@
 # What is this ?
-Our HackTheNorth 2021 submission !  
+Our HackTheNorth 2021 [submission](https://devpost.com/software/nouri-brtg8f) !  
 nouri is a Chrome extension that notifies you if the cosmetic product you're browsing contains harmful or irritant ingredients.  
 
 ![](https://i.imgur.com/2G0AuzE.png)  
